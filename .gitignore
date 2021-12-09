@@ -1,0 +1,6 @@
+libs/
+target/**/*.jar
+target/**/*.class
+target/generated-**/
+target/maven-**/
+target/surefire-reports/
